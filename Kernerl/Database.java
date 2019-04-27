@@ -1,4 +1,4 @@
-package congodb_projet.Kernel;
+package congodb_project.Kernel;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 class Database{
 
     private int id ;
-    private int static nbrInstance = 0;
+    private int static nbreInstance = 0;
     private String nom;
     private List<Table> tables = new ArrayList<Table>();
 
