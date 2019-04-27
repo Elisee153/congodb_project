@@ -7,7 +7,7 @@ public class Main{
         System.out.println("*****CONGO DATABASE*****");
         System.out.println("=============================");
         System.out.println("Le menu ci-dessous presente les differentes actions que vous pouvez executer.");
-        System.out.println("=================================================================");
+        System.out.println("================================================================================");
         System.out.println("Creer une BD: java Main -cbd");
         System.out.println("Supprimer une BD: java Main -dbd");
         System.out.println("Creer une table: java Main -ctb");
