@@ -10,7 +10,7 @@ package congodb_project.Kernel;
  import java.util.ArrayList;
 
  //class
- class Table{
+public class Table{
      //fields
      private int id;
      private static int nbreInstance = 0 ;
@@ -53,7 +53,7 @@ package congodb_project.Kernel;
 
      }
      public boolean deleteData(){
-         
+
      }
      
 

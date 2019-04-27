@@ -3,7 +3,7 @@ package congodb_project.Kernel;
 import java.util.List;
 import java.util.ArrayList;
 
-class Database{
+public class Database{
 
     private int id ;
     private int static nbreInstance = 0;

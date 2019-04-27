@@ -1,6 +1,6 @@
 package congodb_project.Kernel;
 
-class Field{
+public class Field{
     private String nom;
     private String type;
 
