@@ -11,7 +11,24 @@ class Database{
         this.id = ++Database.nbrInstance;
     }
 
-    
+    public int getID(){
+        return this.id;
+    }
+
+    public String getNom(){
+        return this.nom;
+    }
+
+    public void setNom(String nom){
+        this.nom = nom;
+    }
+    public boolean createDB(){
+
+    }
+
+    public boolean dropDB(){
+
+    }
 
 
 }
